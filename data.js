@@ -63,11 +63,9 @@
   { "id": 404,"fact": "node js uses google v8 engine to run javascript"},
   { "id": 405, "fact": "Two Third of Web Usage is on Mobile Devices", "by":"https://github.com/Deepthi1003/node-express-fact"},
   { "id": 406, "fact":"Progressive Web Apps are installable and live on the user's home screen, without the need for an app store.", "by":"https://github.com/Chinmayi98"},
-  { "id": 407},
-
-  { "id": 408 "fact":"Pyhton programming name is derived from British comedy series Monty Python's Flying Circus.", "by":"https://github.com/gangadhary574"},
+  { "id": 407, "fact": "Humans are smarter than any type of AI -- for now", "by": "https://github.com/MAHALAKSHMIKONGARI" },
+  { "id": 408, "fact":"Pyhton programming name is derived from British comedy series Monty Python's Flying Circus.", "by":"https://github.com/gangadhary574"},
   { "id": 409, "fact":"JavaScript is supported by all modern Web browsers with the built-in interpreters", "by": "https://github.com/Sushmita-Rudra/node-express-fact"},
-
   { "id": 410, "fact": "Life Span of Website is Just 3 Years", "by": "https://github.com/nikithakethireddy1996" },
   { "id": 411, "fact": "Some fungi create zombies, then control their minds", "by": "https://github.com/pranay0987"},
   { "id": 412, "fact":"Java is the second most popular language and is very popular among the developers", "by":"https://github.com/pavanreddy4227"},
