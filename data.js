@@ -72,7 +72,7 @@
   { "id": 413, "fact":"Java initial name is oak", "by":"https://github.com/chetankudaravalli16/node-express-fact"},
   { "id": 414,"fact": "React is not a javascript framework instead it's a javascript library","by":"https://github.com/sushma95/"},
   { "id": 415},
-  { "id": 416},
+  { "id": 416,"fact":"The only state that can be typed on the same line of a QWERTY keyboard is Alaska", "by":"https://github.com/chaitanyapopuri"},
   { "id": 417,"fact":"REST id faster than Soap", "by":"https://github.com/santhoshkumarbollena/"},
   { "id": 418,"fact":"A Website Doesn’t Look Same on Diverse Computer Screens","by":"https://github.com/manideepchamala/node-express-fact"},
   { "id": 419},
